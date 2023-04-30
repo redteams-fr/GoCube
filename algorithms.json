@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "name": "2nd Left",
+      "algorithmData": "U' L' U L U F U' F'"
+    },
+    {
+      "name": "2nd Right",
+      "algorithmData": "U R U' R' U' F' U F"
+    },
+    {
+      "name": "Yellow cross",
+      "algorithmData": "F R U R' U' F'"
+    },	
+	
+  ]
+}
